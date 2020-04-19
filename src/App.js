@@ -19,7 +19,7 @@ const App = () => {
     <Router>
         <link rel="stylesheet" href={theme}></link>
         <div className="content">
-          <Header projectName={'Project Name'} />
+          <Header projectName={'Tech Blog'} />
           <Route exact path="/" component={Home} key={1}/>
           <Route exact path="/grid" render={(props) => <GridPage {...props} changeTheme={changeTheme} theme={theme}/>} key={2}/>
           <Route exact path="/chart" render={(props) => <ChartPage {...props} changeTheme={changeTheme} theme={theme}/>}  key={3}/>

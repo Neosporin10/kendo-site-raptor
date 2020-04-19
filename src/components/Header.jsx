@@ -6,8 +6,9 @@ export const Header = (props) => {
         <div className='container-fluid'>
             <div className="d-flex border-bottom py-2">
                 <div className="d-flex">
-                    <div className='project-name d-flex'>
+                    <div className='projectName d-flex'>
                         <span className="mx-0 my-auto logo">
+                            
                             {props.projectName}
                         </span>
                     </div>

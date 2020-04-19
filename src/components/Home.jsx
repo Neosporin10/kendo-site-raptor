@@ -10,8 +10,8 @@ const Home = (props) => {
         <div className="container mt-5">
             <div className='row'>
                 <div className='col-12'>
-                    <h1 className='welcome mb-0'>Welcome to KendoReact</h1>
-                    <h2 className='sub-header mt-0'>This is a sample application built with KendoReact - a set of over 60 UI components built from the ground-up specifically for React.</h2>
+                    <h1 className='welcome mb-0'>Welcome to Mikey Raptor</h1>
+                    <h2 className='sub-header mt-0'></h2>
                 </div>
             </div>
             <div className='row'>
@@ -27,20 +27,7 @@ const Home = (props) => {
                 </div>
                 <div className='col-6 components-list'>
                     <p>
-                    <img src={ComponentsIcon} alt='components' />
-                        <a href='https://www.telerik.com/kendo-react-ui/components/?utm_medium=cpm&utm_source=stackblitz-app&utm_campaign=kendo-ui-react-trial-docs-and-demos'>Components & Documentation</a>
-                    </p>
-                    <p>
-                        <img src={StylesIcon} alt='styles' />
-                        <a href='https://www.telerik.com/kendo-react-ui/components/styling/?utm_medium=cpm&utm_source=stackblitz-app&utm_campaign=kendo-ui-react-trial-styling'>KendoReact Themes Overview</a>
-                    </p>
-                    <p>
-                        <img src={BlogsIcon} alt='blogs' />
-                        <a href='https://www.telerik.com/blogs/tag/react?utm_medium=cpm&utm_source=stackblitz-app&utm_campaign=kendo-ui-react-blog-react-blogs'>Blog Posts</a>
-                    </p>
-                    <p>
-                        <img src={TutorialsIcon} alt='tutorials' />
-                        <a href='https://www.telerik.com/kendo-react-ui/react-hooks-guide/?utm_medium=cpm&utm_source=stackblitz-app&utm_campaign=kendo-ui-react-blog-react-hooks-pp'>Tutorials</a>
+                    Learn To make Progressive Web Apps
                     </p>
                 </div>
             </div>
